@@ -1,4 +1,4 @@
-// data types
+// // data types
 
 
 // String
@@ -31,8 +31,8 @@
 
 // undefined
 
-// let a;
-// console.log(a);
+// let aeee;
+// console.log(aeee);
 
 // let khano;
 // console.log(khano);
@@ -40,8 +40,8 @@
 // let trust = undefined;
 // console.log(trust);
 
-// let b = undefined;
-// console.log(b);
+// let bdc = undefined;
+// console.log(bdc);
 
 
 
@@ -71,9 +71,9 @@
 // var f = false 
 // console.log(f);
 
-// NON PREMITIVE
+// // NON PREMITIVE
 
-// 1: Object
+// // 1: Object
 
 // let Object = {
 //     name: 'ali',
@@ -100,18 +100,18 @@
 // console.log(jhu)
 
 
-// JAVASCRIPT UPPERCASE
+// // JAVASCRIPT UPPERCASE
 
 // let numw = 'The main difference between String Literal and String Object is that String Literal is a String created using double quotes while String Object is a String created using the new() operator.'
 // console.log(numw)
 // let num2 = numw.toUpperCase()
 // console.log(num2)
 
-// JAVASCRIPT LOWERCASE
+// // JAVASCRIPT LOWERCASE
 // let num3 = numw.toLowerCase()
 // console.log(num3)
 
-// mODIFY Array AND DELET Array]M
+// // mODIFY Array AND DELET Array]M
 
 // let raju = ['raju', 19, 'askurdas']
 // console.log(raju)
@@ -124,7 +124,7 @@
 // console.log(raju)
 
 
-// ARRAY METHODS
+// // ARRAY METHODS
 
 // Pop()
 // let studnt = ['gdwg', 74, 'fgua']
@@ -149,7 +149,7 @@
 
 
 
-// =====================ARRAY METHODS=======================
+// // =====================ARRAY METHODS=======================
 
 // CONCATINATION
 
@@ -163,7 +163,7 @@
 // console.log(output)
 
 
-// sorting array
+// // sorting array
 
 // let something1 = ['sdg','sdafa','efawe','eawf']
 // console.log(something1)
@@ -191,14 +191,14 @@
 // confirm(asdh.age)
 
 
-// PROMPT
+// // PROMPT
 
 // let jhd = prompt('enter size')
 // console.log(jhd)
 
-// OPERATORS
+// // OPERATORS
 
-// EQUAL TO
+// // EQUAL TO
 
 // let asad = 5
 // console.log(asad==6)
@@ -210,7 +210,7 @@
 // console.log(sjdh===7)
 
 
-// LOGICAL OPERATORS
+// // LOGICAL OPERATORS
 
 // AND
 
@@ -252,29 +252,29 @@
 
 // STATMENTS
 
-// if statment
-// else statment
-// else if statments
+// // if statment
+// // else statment
+// // else if statments
 
-// let marks = prompt('enter your marks')
+// let markss = prompt('enter your marks')
 
-// if(marks <= 100 && marks >= 80){
+// if(markss <= 100 && markss >= 80){
 //     alert('Grade A+')
 // }
 
-// else if(marks <= 79 && marks >= 70){
+// else if(markss <= 79 && markss >= 70){
 //     alert('Grade A')
 // }
-// else if(marks <= 69 && marks >= 60){
+// else if(markss <= 69 && markss >= 60){
 //     alert('Grade B')
 // }
-// else if(marks <= 59 && marks >= 50){
+// else if(markss <= 59 && markss >= 50){
 //     alert('Grade C')
 // }
-// else if(marks <= 49 && marks >= 40){
+// else if(markss <= 49 && markss >= 40){
 //     alert('Grade D')
 // }
-// else if(marks <= 39 && marks >= 1){
+// else if(markss <= 39 && markss >= 1){
 //     alert('ultra pro max fail')
 
 // }
