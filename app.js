@@ -520,6 +520,14 @@
 // })  
 // })
 
+54
+// let inputs = document.getElementById("inputs")
+// let pass = document.getElementById("password")
+// let button = document.getElementById("btnn")
+// button.addEventListener("click", ()=>{
+//     console.log("email :", inputs.value +  "   "  + "password :",  pass.value);
+// })
+
 
 
 
