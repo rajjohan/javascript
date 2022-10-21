@@ -1,75 +1,75 @@
 // data types
 
 
-String
+// String
 
-let name = 'rajuuuu'
-console.log( name);
+// let name = 'rajuuuu'
+// console.log( name);
 
-let num = "hassan"
-console.log( num);
+// let num = "hassan"
+// console.log( num);
 
-let g = 'ali'
-console.log( g);
+// let g = 'ali'
+// console.log( g);
 
-let h = 'fayyaz'
-console.log(h);
+// let h = 'fayyaz'
+// console.log(h);
 
-Number
+// Number
 
-let number = 123;
-console.log(number);
+// let number = 123;
+// console.log(number);
 
-let nubr = 123;
-console.log(nubr);
+// let nubr = 123;
+// console.log(nubr);
 
-let gip = 320387;
-console.log(gip);
-
-
-
-
-undefined
-
-let a;
-console.log(a);
-
-let khano;
-console.log(khano);
-
-let trust = undefined;
-console.log(trust);
-
-let b = undefined;
-console.log(b);
+// let gip = 320387;
+// console.log(gip);
 
 
 
-null
 
-let c = null
-console.log(c);
+// undefined
 
-let l = null
-console.log(l);
+// let a;
+// console.log(a);
 
-let optics = null
-console.log(optics);
+// let khano;
+// console.log(khano);
 
-let m = null
+// let trust = undefined;
+// console.log(trust);
 
-let n = null
+// let b = undefined;
+// console.log(b);
 
-Boolean
 
-var e = true
-console.log(e);
 
-let o = true
-console.log(o);
+// null
 
-var f = false 
-console.log(f);
+// let c = null
+// console.log(c);
+
+// let l = null
+// console.log(l);
+
+// let optics = null
+// console.log(optics);
+
+// let m = null
+
+// let n = null
+
+// Boolean
+
+// var e = true
+// console.log(e);
+
+// let o = true
+// console.log(o);
+
+// var f = false 
+// console.log(f);
 
 // NON PREMITIVE
 
@@ -88,7 +88,7 @@ console.log(f);
 // }
 // console.log(hgdc)
 
-// 2: Array
+// // 2: Array
 // let Arrayw = ['khano', 22, 'danyore', 'baig market']
 // console.log(Arrayw)
 
@@ -111,7 +111,7 @@ console.log(f);
 // let num3 = numw.toLowerCase()
 // console.log(num3)
 
-// MODIFY Array AND DELET Array]
+// mODIFY Array AND DELET Array]M
 
 // let raju = ['raju', 19, 'askurdas']
 // console.log(raju)
@@ -395,6 +395,130 @@ console.log(f);
 //     document.write('nothing <br>')
 // }
 
+// let array = ['sygdy','wydyu',6750]
+// console.log(array)
+
+// let arry = ['skah','akhsgd',87]
+// console.log(arry)
+
+// let result = array.concat(arry)
+// console.log(result)
+
+// result [1] = result.shift()
+// console.log(result)
+
+// let ca = 1
+
+// do{
+//     document.write( ca +'hassana <br>')
+
+//     ca = ca + 1
+
+// }while(ca <= 10)
+
+
+// let marks = prompt('enter your percantage')
+
+// if(marks <= 100 && marks >= 80){
+//     alert('Grade A+')
+// }
+
+// else if(marks <= 79 && marks >= 70){
+//     alert('Grade A')
+// }
+// else if(marks <= 69 && marks >= 1){
+//     alert('sudent fail')
+
+// }
+// else{
+//     alert('Enter A Valid percantage')
+// }
+
+// if(5 < 10){
+//     document.write("sjhufuhsj")
+// }else{
+//     alert("DFGHVJBKNM")
+// }
+// (56 > 324)? alert('gsdh'): alert('shd')
+
+// for(let a = 1; a<= 4; a++){
+//     if(a % 2 == 0){
+//         document.write(a,    "<br>")
+//     }
+// }
+
+// for(let a = 3; a<= 90; a++){
+//     if(a % 3 === 0  ){
+//         document.write(a,    "<br>")
+//     }
+// }
+
+// for(let a = 5; a<= 100; a++){
+//     if(a % 5 == 0  ){
+//         document.write(a,    "<br>")
+//     }
+// }
+
+// const names = 'raju'
+
+// function shd (raju){
+// let hds = 'dhg'
+// console.log(hds)
+// console.log(raju)
+// }
+// shd('eifa')
+
+
+// let obj = {
+//     name: 'ksgdu',
+//     age: 'ahg',
+//     class: 'kwfdq',
+//     obj1 :{
+//         name: 'ksu',
+//         age: '24',
+//         class: '1fdq', 
+//     }
+// }
+
+// function sjn(lll){
+//     console.log(lll)
+//     console.log(lll ['obj1']['age'])
+    
+// }
+// sjn(obj)
+
+// let a = prompt('enter your 1st code')
+// let b = prompt('enter your 2nd code')
+
+// function sum(x,y){
+//     alert(x)
+//     alert(y)
+//     alert(x*y)
+
+// }sum(a,b)
+
+
+
+
+// let something = [89,990,8]
+
+// let newarray = something.map(func)
+
+// function func(data){
+//     console.log(data + 'apple')
+// }
+
+// let button = document.querySelector('.btn1')
+// console.log(button)
+
+
+
+// let btnn =  document.querySelectorAll("#btn");;
+// btnn.forEach(function render(params) {
+// params.addEventListener('click',()=>{
+//     console.log(params.innerHTML )
+// })  
+// })
 
 
 
