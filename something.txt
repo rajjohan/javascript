@@ -1,0 +1,3 @@
+ name = "ali",
+class = 12,
+age = 12

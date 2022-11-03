@@ -529,6 +529,103 @@
 // })
 
 
+// function loaded() {
+//     const xhttp = new XMLHttpRequest();
+//     xhttp.onload = function () {
+//         document.getElementById("demo").innerHTML = this.responseText;
+//     };
+//     xhttp.open("get","something.txt");
+//     xhttp.send();
+// }
+// ----------example
+// function load() {
+//     const xhttp = new XMLHttpRequest();
+//     xhttp.onload = function () {
+//         document.getElementById("dom").innerHTML = this.responseText;
+//     }
+//     xhttp.open("get","java.txt")
+//     xhttp.send()
+// }
+
+// 54
+// let inputs = document.getElementById("inputs")
+// let pass = document.getElementById("password")
+// let button = document.getElementById("btnn")
+// button.addEventListener("click", ()=>{
+//     console.log("email :", inputs.value +  "   "  + "password :",  pass.value);
+// })
+
+
+
+// const input = document.getElementById('myInput')
+// console.log(input)
+
+// const inpu = document.getElementById('myInput')
+// console.log(input)
+// const todolist = document.querySelector(".todoList")
+// console.log(todolist)
+// const list = []
+// console.log(list)
+// const todoApp = {
+//     addFun(){
+//         if(input.value){
+//          list.push(input.value)
+//          input.value = ''
+//         }
+//        this.myFun()
+//     },
+    // myFun(){
+    //     todolist.innerHTML = ''
+    //     list.forEach((value, index )=>{
+    //         todolist.innerHTML +=
+            // `<li>${value} <button onclick="todoApp.delete(${index})"
+            // >X</button> </li>`
+    //     })
+    // },
+// delete(index){
+//  list.splice(index, 0)
+//  this.myFun()
+//     },
+//     clear(){
+//        list.splice(0, list.length)
+//        this.myFun()
+//     }
+// }
+
+// let input = document.getElementById('input')
+// let inputs = document.getElementById('inputs')
+
+// let todoList = document.querySelector(".todolist")
+
+// const list =[]
+
+// let data = {
+//     addFun(){
+//         if(input.value && inputs.value){
+//             list.push(input.value + " " + inputs.value)
+//             input.value = ""
+//             inputs.value = ""
+//         }
+//         this.myFun()
+//     },
+//     myFun(){
+//         todoList.innerHTML =""
+//         list.forEach((value , index)=>{
+//             todoList.innerHTML += `<li>${value} 
+//             <button onclick= "data.delete(${index})">X</buutton>
+//             </li>`
+//         })
+//     },
+//     delete(index){
+//         list.splice(index, 1)
+//         this.myFun()
+//     },
+//     clear(){
+//         list.splice(0 ,list.length)
+//         this.myFun()
+//     }
+// }
+
 
 
 
